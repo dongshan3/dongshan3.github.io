@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html><head>
-	<meta name="generator" content="Hugo 0.69.2" />
-<title>学做主机客服</title>
+<title>第二周：安装Windows 10系统</title>
 
 <meta charset="utf-8">
 <meta name="X-UA-Compatible" content="IE=edge">
 <meta name="google-site-verification" content="">
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
 <meta content="telephone=no" name="format-detection">
-<meta name="description" content="">
+<meta name="description" content="用VirtualBox创建虚拟机，安装Windows 10系统。">
 <meta name="renderer" content="webkit">
 <meta name="theme-color" content="#ffffff">
 
@@ -42,11 +41,7 @@
 
 
 
-<style>
-  .toc{
-    display: none !important;
-  }
-</style>
+<script src="https://ye.anqun.org//js/toc.js"></script>
 
 
 
@@ -58,7 +53,7 @@
 </head><body>
     	<div id="app"><div ref="sideContainer" class="side-container">
     
-    <a class="a-block nav-head active" href="https://ye.anqun.org/">
+    <a class="a-block nav-head false" href="https://ye.anqun.org/">
     
         <div class="nav-title">
             学做主机客服
@@ -72,9 +67,11 @@
             
             
             
+                
             
             
-            <a class="a-block nav-link-item false" href="/posts">
+            
+            <a class="a-block nav-link-item active" href="/posts">
                 目录
             </a>
             
@@ -109,6 +106,11 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
 </div><div ref="extraContainer" class="extra-container">
     
     
+    <div class="toc animated-visibility" :class="{ invisible: scrollY <= 140 }">
+
+
+</div>
+    
     <div class="pagination">
         <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top" :class="{ invisible: scrollY == 0 }">
             <i class="material-icons pagination-action-icon">
@@ -126,8 +128,6 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
         </a>
         
         
-        
-        
     </div>
 </div><div class="single-column-drawer-container" ref="drawer"
      v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
@@ -139,9 +139,11 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
                 
                 
                 
+                    
                 
                 
-                <a class="a-block drawer-menu-item false" href="/posts">
+                
+                <a class="a-block drawer-menu-item active" href="/posts">
                     目录
                 </a>
                 
@@ -156,6 +158,11 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
                 </a>
                 
             
+            
+            <div class="toc">
+
+
+</div>
             
         </div>
     </div>
@@ -195,123 +202,82 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
     </a>
 </div>
             <div id="content">
-
 <div ref="streamContainer" class="stream-container">
-    <div class="post-list-container post-list-container-no-background">
-        
+    <div class="post-list-container post-list-container-shadow">
+        <div class="post">
             
-            <a href="https://ye.anqun.org/about/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-divider">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                关于本站
-                            </div>
-                            <div class="post-item-summary">
-                                我做在线主机客服，有些时候会枯燥、会无聊。容易解决的方法莫过于“复制”另一个自己，带多一个“同事”入行。
-                            </div>
-                            <div class="post-item-meta">
-                                2020-05-07
-                            </div>
-                        </div>
+            
+            
+
+            <div class="post-head-wrapper-text-only"
+                 style="background-image: url('https://ye.anqun.org/')">
+                <div class="post-title">
+                    第二周：安装Windows 10系统
+                    
+                    <div class="post-subtitle">
+                        用VirtualBox创建虚拟机，安装Windows 10系统。
+                    </div>
+                    
+                    <div class="post-meta">
                         
+                        <time itemprop="datePublished">
+                            2020-05-07 21:20
+                        </time>
+                        
+
+                        
+
                         
                     </div>
                 </div>
+            </div>
             
-        
-            
-            <a href="https://ye.anqun.org/posts/di-si-zhou/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-divider">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                第四周：安装iRedMail，WordPress，Magento2
-                            </div>
-                            <div class="post-item-summary">
-                                完成邮局套件iRedMail安装、内容发布系统WordPress安装和在线商城Magento2安装。
-                            </div>
-                            <div class="post-item-meta">
-                                2020-05-07
-                            </div>
-                        </div>
-                        
-                        
-                    </div>
+            <div class="post-body-wrapper">
+                <div class="post-body">
+                    <p>　　网上教程很多，写得详细。重在实践，以下给出参考资料，请多摸索。争取在一周内能成功安装Windows 10系统。如有疑问，欢迎联系交流。</p>
+<p>参考：</p>
+<ul>
+<li><a href="https://www.microsoft.com/zh-cn/software-download/windows10">https://www.microsoft.com/zh-cn/software-download/windows10</a></li>
+<li><a href="https://www.chuyu.me/zh-Hans/">https://www.chuyu.me/zh-Hans/</a></li>
+<li><a href="https://www.fmqcloud.com/archives/makedd.html">https://www.fmqcloud.com/archives/makedd.html</a></li>
+</ul>
+
+                    
+                    <HR width="100%" id="EOF">
+                    <p style="color:#777;">Last modified on 2020-05-07</p>
+                    
                 </div>
+            </div>
             
-        
             
-            <a href="https://ye.anqun.org/posts/di-san-zhou/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-divider">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                第三周：安装Debian Linux系统
-                            </div>
-                            <div class="post-item-summary">
-                                用VirtualBox创建虚拟机，安装Debian Linux系统。
-                            </div>
-                            <div class="post-item-meta">
-                                2020-05-07
-                            </div>
-                        </div>
-                        
-                        
-                    </div>
-                </div>
-            
-        
-            
-            <a href="https://ye.anqun.org/posts/di-er-zhou/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-divider">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                第二周：安装Windows 10系统
-                            </div>
-                            <div class="post-item-summary">
-                                用VirtualBox创建虚拟机，安装Windows 10系统。
-                            </div>
-                            <div class="post-item-meta">
-                                2020-05-07
-                            </div>
-                        </div>
-                        
-                        
-                    </div>
-                </div>
-            
-        
-            
-            <a href="https://ye.anqun.org/posts/di-yi-zhou/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-divider">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                第一周：创建一个简单的静态网站且托管到互联网
-                            </div>
-                            <div class="post-item-summary">
-                                用hugo在本地创建一个静态的个人博客网站，且将网站文件托管到github。网站可被访问。
-                            </div>
-                            <div class="post-item-meta">
-                                2020-05-07
-                            </div>
-                        </div>
-                        
-                        
-                    </div>
-                </div>
-            
-        
-        </a>
+            <nav class="post-pagination">
+
+                
+                <a class="newer-posts" href="https://ye.anqun.org/posts/di-san-zhou/">
+                    Next<br>第三周：安装Debian Linux系统
+                </a>
+                
+                
+                
+                <a class="older-posts" href="https://ye.anqun.org/posts/di-yi-zhou/">
+                    Previous<br>第一周：创建一个简单的静态网站且托管到互联网
+                </a>
+                
+            </nav>
+            <div class="post-comment-wrapper">
+                
+
+
+
+
+
+
+            </div>
+        </div>
     </div>
 </div>
 
-            </div>
-
-
-<div id="single-column-footer">
+            </div><div id="single-column-footer">
 Hugo Theme <a href="https://github.com/amazingrise/hugo-theme-diary">Diary</a> by <a href="https://amazingrise.net">Rise</a>
 <br>
 Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopener">Makito</a>'s <a href="https://github.com/SumiMakito/hexo-theme-journal/" target="_blank" rel="noreferrer noopener">Journal.</a> <br>

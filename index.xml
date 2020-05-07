@@ -1,0 +1,101 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>学做主机客服</title>
+    <link>https://ye.anqun.org/</link>
+    <description>Recent content on 学做主机客服</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>未定</copyright>
+    <lastBuildDate>Thu, 07 May 2020 21:43:17 +0800</lastBuildDate>
+    
+        <atom:link href="https://ye.anqun.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>关于本站</title>
+        <link>https://ye.anqun.org/about/</link>
+        <pubDate>Thu, 07 May 2020 21:43:17 +0800</pubDate>
+        
+        <guid>https://ye.anqun.org/about/</guid>
+        <description>学做主机客服 https://ye.anqun.org/about/ -&lt;p&gt;　　如有疑问，欢迎联系交流（QQ：2231070497）。&lt;/p&gt;
+- https://ye.anqun.org/about/ - 未定</description>
+        </item>
+    
+    
+    
+        <item>
+        <title>第四周：安装iRedMail，WordPress，Magento2</title>
+        <link>https://ye.anqun.org/posts/di-si-zhou/</link>
+        <pubDate>Thu, 07 May 2020 21:40:13 +0800</pubDate>
+        
+        <guid>https://ye.anqun.org/posts/di-si-zhou/</guid>
+        <description>学做主机客服 https://ye.anqun.org/posts/di-si-zhou/ -&lt;p&gt;　　网上教程很多，写得详细。重在实践，以下给出参考资料，请多摸索。争取在一周内能看到您能成功安装iRedMail、WordPress和Magento2。如有疑问，欢迎联系交流。&lt;/p&gt;
+&lt;p&gt;参考：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.iredmail.org/index-zh_CN.html&#34;&gt;https://www.iredmail.org/index-zh_CN.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zh-cn.wordpress.com/&#34;&gt;https://zh-cn.wordpress.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://devdocs.magento.com/guides/v2.3/install-gde/system-requirements.html&#34;&gt;https://devdocs.magento.com/guides/v2.3/install-gde/system-requirements.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+- https://ye.anqun.org/posts/di-si-zhou/ - 未定</description>
+        </item>
+    
+    
+    
+        <item>
+        <title>第三周：安装Debian Linux系统</title>
+        <link>https://ye.anqun.org/posts/di-san-zhou/</link>
+        <pubDate>Thu, 07 May 2020 21:30:10 +0800</pubDate>
+        
+        <guid>https://ye.anqun.org/posts/di-san-zhou/</guid>
+        <description>学做主机客服 https://ye.anqun.org/posts/di-san-zhou/ -&lt;p&gt;　　网上教程很多，写得详细。重在实践，以下给出参考资料，请多摸索。争取在一周内能看到您能成功安装Debian Linux系统。如有疑问，欢迎联系交流。&lt;/p&gt;
+&lt;p&gt;参考：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.debian.org/releases/stable/amd64/&#34;&gt;https://www.debian.org/releases/stable/amd64/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/fincham/kexec-remote-debian-install&#34;&gt;https://github.com/fincham/kexec-remote-debian-install&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hostloc.com/thread-459336-1-1.html&#34;&gt;https://www.hostloc.com/thread-459336-1-1.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+- https://ye.anqun.org/posts/di-san-zhou/ - 未定</description>
+        </item>
+    
+    
+    
+        <item>
+        <title>第二周：安装Windows 10系统</title>
+        <link>https://ye.anqun.org/posts/di-er-zhou/</link>
+        <pubDate>Thu, 07 May 2020 21:20:07 +0800</pubDate>
+        
+        <guid>https://ye.anqun.org/posts/di-er-zhou/</guid>
+        <description>学做主机客服 https://ye.anqun.org/posts/di-er-zhou/ -&lt;p&gt;　　网上教程很多，写得详细。重在实践，以下给出参考资料，请多摸索。争取在一周内能成功安装Windows 10系统。如有疑问，欢迎联系交流。&lt;/p&gt;
+&lt;p&gt;参考：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/zh-cn/software-download/windows10&#34;&gt;https://www.microsoft.com/zh-cn/software-download/windows10&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.chuyu.me/zh-Hans/&#34;&gt;https://www.chuyu.me/zh-Hans/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fmqcloud.com/archives/makedd.html&#34;&gt;https://www.fmqcloud.com/archives/makedd.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+- https://ye.anqun.org/posts/di-er-zhou/ - 未定</description>
+        </item>
+    
+    
+    
+        <item>
+        <title>第一周：创建一个简单的静态网站且托管到互联网</title>
+        <link>https://ye.anqun.org/posts/di-yi-zhou/</link>
+        <pubDate>Thu, 07 May 2020 21:08:05 +0800</pubDate>
+        
+        <guid>https://ye.anqun.org/posts/di-yi-zhou/</guid>
+        <description>学做主机客服 https://ye.anqun.org/posts/di-yi-zhou/ -&lt;p&gt;　　网上教程很多，写得详细。重在实践，以下给出参考资料，请多摸索。争取在一周内能看到您的个人博客网站。如有疑问，欢迎联系交流。&lt;/p&gt;
+&lt;p&gt;参考：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pages.github.com/&#34;&gt;https://pages.github.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;https://gohugo.io/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.manning.com/books/hugo-in-action&#34;&gt;https://www.manning.com/books/hugo-in-action&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://themes.gohugo.io/hugo-theme-diary/&#34;&gt;https://themes.gohugo.io/hugo-theme-diary/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bmpi.dev/series/%E9%9B%B6%E6%88%90%E6%9C%AC%E6%90%AD%E5%BB%BA%E7%8E%B0%E4%BB%A3%E5%8D%9A%E5%AE%A2%E6%8C%87%E5%8D%97/&#34;&gt;https://www.bmpi.dev/series/%E9%9B%B6%E6%88%90%E6%9C%AC%E6%90%AD%E5%BB%BA%E7%8E%B0%E4%BB%A3%E5%8D%9A%E5%AE%A2%E6%8C%87%E5%8D%97/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+- https://ye.anqun.org/posts/di-yi-zhou/ - 未定</description>
+        </item>
+    
+    
+  </channel>
+</rss> 

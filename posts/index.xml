@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 学做主机客服</title>
+    <link>https://ye.anqun.org/posts/</link>
+    <description>Recent content in Posts on 学做主机客服</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>未定</copyright>
+    <lastBuildDate>Thu, 07 May 2020 21:40:13 +0800</lastBuildDate>
+    
+	<atom:link href="https://ye.anqun.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>第四周：安装iRedMail，WordPress，Magento2</title>
+      <link>https://ye.anqun.org/posts/di-si-zhou/</link>
+      <pubDate>Thu, 07 May 2020 21:40:13 +0800</pubDate>
+      
+      <guid>https://ye.anqun.org/posts/di-si-zhou/</guid>
+      <description>　网上教程很多，写得详细。重在实践，以下给出参考资料，请多摸索。争取在一周内能看到您能成功安装iRedMail、WordPress和Magento2。如有疑问，欢迎联系交流。
+参考：
+ https://www.iredmail.org/index-zh_CN.html https://zh-cn.wordpress.com/ https://devdocs.magento.com/guides/v2.3/install-gde/system-requirements.html  </description>
+    </item>
+    
+    <item>
+      <title>第三周：安装Debian Linux系统</title>
+      <link>https://ye.anqun.org/posts/di-san-zhou/</link>
+      <pubDate>Thu, 07 May 2020 21:30:10 +0800</pubDate>
+      
+      <guid>https://ye.anqun.org/posts/di-san-zhou/</guid>
+      <description>　网上教程很多，写得详细。重在实践，以下给出参考资料，请多摸索。争取在一周内能看到您能成功安装Debian Linux系统。如有疑问，欢迎联系交流。
+参考：
+ https://www.debian.org/releases/stable/amd64/ https://github.com/fincham/kexec-remote-debian-install https://www.hostloc.com/thread-459336-1-1.html  </description>
+    </item>
+    
+    <item>
+      <title>第二周：安装Windows 10系统</title>
+      <link>https://ye.anqun.org/posts/di-er-zhou/</link>
+      <pubDate>Thu, 07 May 2020 21:20:07 +0800</pubDate>
+      
+      <guid>https://ye.anqun.org/posts/di-er-zhou/</guid>
+      <description>　网上教程很多，写得详细。重在实践，以下给出参考资料，请多摸索。争取在一周内能成功安装Windows 10系统。如有疑问，欢迎联系交流。
+参考：
+ https://www.microsoft.com/zh-cn/software-download/windows10 https://www.chuyu.me/zh-Hans/ https://www.fmqcloud.com/archives/makedd.html  </description>
+    </item>
+    
+    <item>
+      <title>第一周：创建一个简单的静态网站且托管到互联网</title>
+      <link>https://ye.anqun.org/posts/di-yi-zhou/</link>
+      <pubDate>Thu, 07 May 2020 21:08:05 +0800</pubDate>
+      
+      <guid>https://ye.anqun.org/posts/di-yi-zhou/</guid>
+      <description>　网上教程很多，写得详细。重在实践，以下给出参考资料，请多摸索。争取在一周内能看到您的个人博客网站。如有疑问，欢迎联系交流。
+参考：
+ https://pages.github.com/ https://gohugo.io/ https://www.manning.com/books/hugo-in-action https://themes.gohugo.io/hugo-theme-diary/ https://www.bmpi.dev/series/%E9%9B%B6%E6%88%90%E6%9C%AC%E6%90%AD%E5%BB%BA%E7%8E%B0%E4%BB%A3%E5%8D%9A%E5%AE%A2%E6%8C%87%E5%8D%97/  </description>
+    </item>
+    
+  </channel>
+</rss>
